@@ -1,0 +1,4 @@
+08/01/2012
+agr.id
+
+"SUM(tp.amount) as \"Total Amount\" "+
